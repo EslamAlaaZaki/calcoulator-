@@ -1,4 +1,4 @@
-# calcoulator-
+# calculator-
 embedded system 
 
 calcolator using keypad and display
